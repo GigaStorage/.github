@@ -1,0 +1,1 @@
+To report a security vulnerability to GIGA Storage, please contact us at [info@giga-storage.com](mailto:info@giga-storage.com?subject=%5BSECURITY%5D&body=Dear%20GIGA%20Storage%20organisation%2C%0A%0AI%20am%20in%20contact%20on%20the%20topic%20of%20a%20security%20vulrenability%20found%20in%20your%20open%20source%20community.). 
